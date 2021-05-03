@@ -3,4 +3,4 @@ line2
 line1- kripha changes this line
 RJ Changed the code
 kripha changes
-kripha changes while rj is changing
+kripha changes while rj is changing - MERGE CONFLICTS ON SAME LINE
